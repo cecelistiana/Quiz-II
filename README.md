@@ -5,7 +5,7 @@
    
 2. Tutorial setiap fungsi pada tools Vs-code
   
-  ![p1](https://user-images.githubusercontent.com/92987122/138589400-14897e9a-d030-4079-b93d-4942991d76fe.png)
+    ![p1](https://user-images.githubusercontent.com/92987122/138589400-14897e9a-d030-4079-b93d-4942991d76fe.png)
   
-  fungsi print adalah function, bawaan dari program diakhiri dengan ().
+     fungsi print adalah function, bawaan dari program diakhiri dengan ().
   
